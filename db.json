@@ -1,0 +1,7 @@
+{
+    "posts": [
+{"id": 1, "title": "Post about cooking.", "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed mollis sapien"},
+{"id": 2, "title": "Healthy food post.", "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed mollis sapien"},
+{"id": 3, "title": "Delicious drink post.", "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed mollis sapien"}
+    ]
+}
