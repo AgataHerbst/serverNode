@@ -1,7 +1,7 @@
 {
     "posts": [
-{"id": 1, "title": "Post about cooking.", "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed mollis sapien"},
-{"id": 2, "title": "Healthy food post.", "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed mollis sapien"},
-{"id": 3, "title": "Delicious drink post.", "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed mollis sapien"}
+{"id": 1, "title": "Strudel - Apple.", "body": "Flaky phyllo pastry generously filled with apple and finished with a dusting of powdered sugar. Buttery, light and delicious."},
+{"id": 2, "title": "Strudel - Cheese.", "body": "Flaky phyllo pastry generously filled with cheese and finished with a dusting of powdered sugar. Buttery, light and delicious."},
+{"id": 3, "title": "Strudel - Cherry.", "body": "Flaky phyllo pastry with tart cherry filling and finished with a dusting of powdered sugar. If you love cherries, you’ll be in heaven!"}
     ]
 }

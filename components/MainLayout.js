@@ -14,6 +14,7 @@ export default function MainLayout({ children, title = 'Next App' }) {
                 <Link legacyBehavior href={'/'}><a>Home</a></Link>
                 <Link legacyBehavior href={'/about'}><a>About</a></Link>
                 <Link legacyBehavior href={'/posts'}><a>Posts</a></Link>
+                <Link legacyBehavior href={'/galleries'}><a>Galleries</a></Link>
             </nav>
             <main>
                 {children}
@@ -25,13 +26,15 @@ export default function MainLayout({ children, title = 'Next App' }) {
         left: 0;
         top: 0;
         right: 0;
-        background: darkblue;
+        background: #FFE4E1;
         display: flex;
         justify-content: space-around;
         align-items: center;
         }
           nav a {
-            color: #fff;
+           color: #808080;
+           font-weight: bold;
+           font-size: 20px;
            text-decoration: none;
           }
           main {
